@@ -7,7 +7,7 @@ about:
   head: 4178084
   archived: false
   latestVersion: v0.17
-  collectedAt: 2026-09-04T19:18:28Z
+  collectedAt: 2026-09-04T21:17:39Z
 timeline:
   created: 2019-12-23
   lastCommit: 2026-08-13
@@ -82,5 +82,43 @@ total:
   openIssue: 7
   commit: 218
 ---
+path: /home/runner/.x-repo/github.com/zqqw/pakku
+collectedAt: 2026-09-04T21:17:39Z
+loc:
+  Nim:
+    code: 5683
+    comments: 143
+    blanks: 951
+    files: 21
+  Makefile:
+    code: 148
+    comments: 0
+    blanks: 29
+    files: 1
+  Sh:
+    code: 53
+    comments: 2
+    blanks: 13
+    files: 1
+  Bitbake:
+    code: 12
+    comments: 14
+    blanks: 6
+    files: 2
+  Markdown:
+    code: 0
+    comments: 47
+    blanks: 21
+    files: 1
+  Text:
+    code: 0
+    comments: 129
+    blanks: 32
+    files: 2
+total:
+  code: 5899
+  comments: 335
+  blanks: 1052
+  files: 28
 ---
 
