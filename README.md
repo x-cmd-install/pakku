@@ -14,11 +14,11 @@ x install pakku
 
 ## Code insight
 
-Total: **5,915** lines of code across **26** files in the top 5 languages.
+Total: **6,105** lines of code across **30** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 5,702 | 147 | 957 | 21 |
+| Nim | 5,892 | 211 | 988 | 25 |
 | Makefile | 148 | 0 | 29 | 1 |
 | Sh | 53 | 2 | 13 | 1 |
 | Bitbake | 12 | 14 | 6 | 2 |
@@ -32,7 +32,7 @@ Total: **5,915** lines of code across **26** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.17` (2023-02-16)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **5,915** lines of code across **26** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 19 · **Open PRs**: 2 · **Closed issues**: 23 · **Open issues**: 7 · **Commits**: 223
+- **Releases**: 3 · **Merged PRs**: 20 · **Open PRs**: 3 · **Closed issues**: 23 · **Open issues**: 7 · **Commits**: 224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-07 | 0 | 2 | 2 | 0 | 0 | 2 |
-| 90d | 2026-08-08 | 0 | 3 | 2 | 0 | 0 | 4 |
-| last180d | 2026-05-10 | 0 | 4 | 2 | 0 | 1 | 4 |
-| 360d | 2025-11-11 | 0 | 10 | 2 | 0 | 1 | 14 |
-| last720d | 2024-11-16 | 0 | 10 | 2 | 1 | 2 | 22 |
+| 30d | 2026-10-08 | 0 | 2 | 3 | 0 | 0 | 2 |
+| last60d | 2026-09-08 | 0 | 3 | 3 | 0 | 0 | 3 |
+| 90d | 2026-08-09 | 0 | 4 | 3 | 0 | 0 | 5 |
+| last180d | 2026-05-11 | 0 | 5 | 3 | 0 | 1 | 5 |
+| 360d | 2025-11-12 | 0 | 11 | 3 | 0 | 1 | 15 |
+| last720d | 2024-11-17 | 0 | 11 | 3 | 1 | 2 | 23 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pakku lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:30:57Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:47:34Z._
