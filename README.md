@@ -46,12 +46,12 @@ Total: **6,105** lines of code across **30** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 2 | 3 | 0 | 0 | 2 |
-| last60d | 2026-09-14 | 0 | 3 | 3 | 0 | 0 | 3 |
-| 90d | 2026-08-15 | 0 | 3 | 3 | 0 | 0 | 3 |
-| last180d | 2026-05-17 | 0 | 5 | 3 | 0 | 1 | 5 |
-| 360d | 2025-11-18 | 0 | 11 | 3 | 0 | 1 | 15 |
-| last720d | 2024-11-23 | 0 | 11 | 3 | 1 | 2 | 23 |
+| 30d | 2026-10-15 | 0 | 2 | 3 | 0 | 0 | 2 |
+| last60d | 2026-09-15 | 0 | 3 | 3 | 0 | 0 | 3 |
+| 90d | 2026-08-16 | 0 | 3 | 3 | 0 | 0 | 3 |
+| last180d | 2026-05-18 | 0 | 5 | 3 | 0 | 1 | 5 |
+| 360d | 2025-11-19 | 0 | 11 | 3 | 0 | 1 | 15 |
+| last720d | 2024-11-24 | 0 | 11 | 3 | 1 | 2 | 23 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pakku lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:41:44Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:49:47Z._
