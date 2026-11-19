@@ -14,15 +14,15 @@ x install pakku
 
 ## Code insight
 
-Total: **6,105** lines of code across **30** files in the top 5 languages.
+Total: **7,114** lines of code across **39** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 5,892 | 211 | 988 | 25 |
-| Makefile | 148 | 0 | 29 | 1 |
+| Nim | 6,897 | 395 | 1,116 | 34 |
+| Makefile | 152 | 6 | 31 | 1 |
 | Sh | 53 | 2 | 13 | 1 |
 | Bitbake | 12 | 14 | 6 | 2 |
-| Markdown | 0 | 47 | 21 | 1 |
+| Markdown | 0 | 99 | 42 | 1 |
 
 ## Source
 
@@ -32,26 +32,26 @@ Total: **6,105** lines of code across **30** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.17` (2023-02-16)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-18
 
 ## Popularity
 
-- **Stars**: 48 · **Forks**: 3 · **Open issues**: 31 · **Contributors**: 4
+- **Stars**: 48 · **Forks**: 3 · **Open issues**: 33 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 20 · **Open PRs**: 3 · **Closed issues**: 23 · **Open issues**: 8 · **Commits**: 224
+- **Releases**: 3 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 23 · **Open issues**: 10 · **Commits**: 231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 2 | 3 | 0 | 1 | 2 |
-| last60d | 2026-09-18 | 0 | 3 | 3 | 0 | 1 | 2 |
-| 90d | 2026-08-19 | 0 | 3 | 3 | 0 | 1 | 3 |
-| last180d | 2026-05-21 | 0 | 5 | 3 | 0 | 2 | 5 |
-| 360d | 2025-11-22 | 0 | 11 | 3 | 0 | 2 | 15 |
-| last720d | 2024-11-27 | 0 | 11 | 3 | 1 | 3 | 23 |
+| 30d | 2026-10-20 | 0 | 9 | 0 | 0 | 3 | 9 |
+| last60d | 2026-09-20 | 0 | 9 | 0 | 0 | 3 | 9 |
+| 90d | 2026-08-21 | 0 | 10 | 0 | 0 | 3 | 10 |
+| last180d | 2026-05-23 | 0 | 12 | 0 | 0 | 4 | 12 |
+| 360d | 2025-11-24 | 0 | 18 | 0 | 0 | 4 | 22 |
+| last720d | 2024-11-29 | 0 | 18 | 0 | 1 | 5 | 30 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pakku lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:44:37Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:47Z._
