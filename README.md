@@ -40,18 +40,18 @@ Total: **7,114** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 23 · **Open issues**: 10 · **Commits**: 231
+- **Releases**: 3 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 9 | 0 | 0 | 3 | 9 |
-| last60d | 2026-09-20 | 0 | 9 | 0 | 0 | 3 | 9 |
-| 90d | 2026-08-21 | 0 | 10 | 0 | 0 | 3 | 10 |
-| last180d | 2026-05-23 | 0 | 12 | 0 | 0 | 4 | 12 |
-| 360d | 2025-11-24 | 0 | 18 | 0 | 0 | 4 | 22 |
-| last720d | 2024-11-29 | 0 | 18 | 0 | 1 | 5 | 30 |
+| 30d | 2026-10-21 | 0 | 9 | 0 | 2 | 1 | 9 |
+| last60d | 2026-09-21 | 0 | 9 | 0 | 2 | 1 | 9 |
+| 90d | 2026-08-22 | 0 | 10 | 0 | 2 | 1 | 10 |
+| last180d | 2026-05-24 | 0 | 12 | 0 | 2 | 2 | 12 |
+| 360d | 2025-11-25 | 0 | 18 | 0 | 2 | 2 | 22 |
+| last720d | 2024-11-30 | 0 | 18 | 0 | 3 | 3 | 30 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pakku lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:47Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:41:16Z._
