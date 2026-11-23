@@ -14,15 +14,15 @@ x install pakku
 
 ## Code insight
 
-Total: **7,114** lines of code across **39** files in the top 5 languages.
+Total: **7,174** lines of code across **40** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Nim | 6,897 | 395 | 1,116 | 34 |
 | Makefile | 152 | 6 | 31 | 1 |
-| Sh | 53 | 2 | 13 | 1 |
+| Sh | 113 | 18 | 25 | 2 |
 | Bitbake | 12 | 14 | 6 | 2 |
-| Markdown | 0 | 99 | 42 | 1 |
+| Markdown | 0 | 106 | 45 | 1 |
 
 ## Source
 
@@ -31,27 +31,34 @@ Total: **7,114** lines of code across **39** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.17` (2023-02-16)
-- **Last commit**: 2026-11-18
+- **Latest**: `v0.18` (2026-11-23)
+- **Last commit**: 2026-11-23
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 48 · **Forks**: 3 · **Open issues**: 33 · **Contributors**: 4
+- **Stars**: 49 · **Forks**: 3 · **Open issues**: 33 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 231
+- **Releases**: 4 · **Merged PRs**: 28 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 232
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 9 | 0 | 2 | 1 | 9 |
-| last60d | 2026-09-23 | 0 | 9 | 0 | 2 | 1 | 9 |
-| 90d | 2026-08-24 | 0 | 10 | 0 | 2 | 1 | 10 |
-| last180d | 2026-05-26 | 0 | 12 | 0 | 2 | 2 | 12 |
-| 360d | 2025-11-27 | 0 | 18 | 0 | 2 | 2 | 22 |
-| last720d | 2024-12-02 | 0 | 18 | 0 | 2 | 3 | 30 |
+| 30d | 2026-10-24 | 1 | 10 | 1 | 2 | 1 | 10 |
+| last60d | 2026-09-24 | 1 | 10 | 1 | 2 | 1 | 10 |
+| 90d | 2026-08-25 | 1 | 11 | 1 | 2 | 1 | 11 |
+| last180d | 2026-05-27 | 1 | 13 | 1 | 2 | 2 | 13 |
+| 360d | 2025-11-28 | 1 | 19 | 1 | 2 | 2 | 23 |
+| last720d | 2024-12-03 | 1 | 19 | 1 | 2 | 3 | 31 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pakku-0.18-x86_64.tar.gz](https://github.com/zqqw/pakku/releases/download/v0.18/pakku-0.18-x86_64.tar.gz) | 431.0 KiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -62,4 +69,4 @@ Install metadata for pakku lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:18:05Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:34:44Z._
