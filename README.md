@@ -14,15 +14,15 @@ x install pakku
 
 ## Code insight
 
-Total: **7,174** lines of code across **40** files in the top 5 languages.
+Total: **7,578** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 6,897 | 395 | 1,116 | 34 |
-| Makefile | 152 | 6 | 31 | 1 |
+| Nim | 7,301 | 495 | 1,191 | 39 |
+| Makefile | 152 | 8 | 31 | 1 |
 | Sh | 113 | 18 | 25 | 2 |
-| Bitbake | 12 | 14 | 6 | 2 |
-| Markdown | 0 | 106 | 45 | 1 |
+| Bitbake | 12 | 16 | 6 | 2 |
+| Markdown | 0 | 133 | 50 | 1 |
 
 ## Source
 
@@ -41,18 +41,18 @@ Total: **7,174** lines of code across **40** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 28 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 232
+- **Releases**: 4 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 10 | 1 | 2 | 1 | 10 |
-| last60d | 2026-09-24 | 1 | 10 | 1 | 2 | 1 | 10 |
-| 90d | 2026-08-25 | 1 | 11 | 1 | 2 | 1 | 11 |
-| last180d | 2026-05-27 | 1 | 13 | 1 | 2 | 2 | 13 |
-| 360d | 2025-11-28 | 1 | 19 | 1 | 2 | 2 | 23 |
-| last720d | 2024-12-03 | 1 | 19 | 1 | 2 | 3 | 31 |
+| 30d | 2026-10-25 | 1 | 13 | 0 | 2 | 1 | 13 |
+| last60d | 2026-09-25 | 1 | 13 | 0 | 2 | 1 | 13 |
+| 90d | 2026-08-26 | 1 | 14 | 0 | 2 | 1 | 14 |
+| last180d | 2026-05-28 | 1 | 16 | 0 | 2 | 2 | 16 |
+| 360d | 2025-11-29 | 1 | 22 | 0 | 2 | 2 | 26 |
+| last720d | 2024-12-04 | 1 | 22 | 0 | 2 | 3 | 34 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for pakku lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:34:44Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:27:34Z._
